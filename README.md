@@ -24,3 +24,6 @@ You do *not* need to set up a database or any interactivity on the webpage yet. 
 
 ## Add Readme.MD
 menambahkan beberapa baris di README
+
+## add badge readme
+![code coverage badge](https://github.com/wagslane/go-rabbitmq/workflows/Tests/badge.svg)
